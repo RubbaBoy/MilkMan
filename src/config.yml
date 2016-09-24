@@ -1,0 +1,41 @@
+Spawn1-X: 1018
+Spawn1-Y: 64
+Spawn1-Z: 1017
+
+Spawn2-X: 1029
+Spawn2-Y: 64
+Spawn2-Z: 1030
+
+Orb_1_X: 1028
+Orb_1_Y: 64
+Orb_1_Z: 1049
+
+Orb_2_X: 1011
+Orb_2_Y: 64
+Orb_2_Z: 1035
+
+Orb_3_X: 1041
+Orb_3_Y: 64
+Orb_3_Z: 1024
+
+Orb_4_X: 1041
+Orb_4_Y: 64
+Orb_4_Z: 1001
+
+Orb_5_X: 1023
+Orb_5_Y: 64
+Orb_5_Z: 1004
+
+Orb_6_X: 1007
+Orb_6_Y: 64
+Orb_6_Z: 1013
+
+Orb_7_X: 1007
+Orb_7_Y: 64
+Orb_7_Z: 983
+
+Orb_8_X: 1041
+Orb_8_Y: 64
+Orb_8_Z: 983
+
+Spawn-World: 'game_world'

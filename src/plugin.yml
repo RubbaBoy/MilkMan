@@ -1,0 +1,10 @@
+name: MilkMan
+main: com.uddernetworks.milkman.main.Main
+description: Deliver milk to houses
+website: http://www.uddernetworks.com/
+author: RubbaBoy
+version: 10
+commands:
+   mm:
+      description: Command for the MilkMan game
+      usage: /mm <start/stop>
